@@ -6,6 +6,13 @@
 
 Турнир включает соревнования, в которых могут принимать участие как простые узконаправленные конструкции, созданные начинающими, так и комплексные робототехнические устройства со сложной программной частью. Регламенты соревнований формируются таким образом, чтобы охватить как можно более широкий спектр характеристик и возможностей робототехнических конструкций.
 
-[Roborace in Odessa](https://www.youtube.com/watch?v=oeiFfief-SE)
+## Соревнования
+### 2017
+* [2017.05.27 Roborace in Odessa](https://www.youtube.com/watch?v=oeiFfief-SE)
+* [2017.05.13 Roborace Minsk - Final](https://www.youtube.com/watch?v=p4TA3dqyDOE)
 
-[Правила соревнований](https://github.com/roborace-org/roborace-regulations)
+### 2016
+* [2016.11.19 Roborace Lodz - Final](https://www.youtube.com/watch?v=AVTrLPimuZ8)
+* [2016.09.17 Roborace Minsk - Final](https://www.youtube.com/watch?v=FEcny0drUco)
+
+## [Правила соревнований](https://github.com/roborace-org/roborace-regulations)
