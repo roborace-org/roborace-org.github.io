@@ -11,7 +11,7 @@
 ## Соревнования
 ### 2017
 * [2017.12.16 SMART ROBO FEST](competitions.md)
-* [2017.10.27-28 Всеукраїнські змагання з перегонів автономних роботів за Кубок Львівської політехніки](http://www.lp.edu.ua/robocup/programa-konkursu)
+* [2017.10.27 Roborace Lvov - Final](https://www.youtube.com/watch?v=CQYVyRDg1t4)
 * [2017.05.27 Roborace in Odessa](https://www.youtube.com/watch?v=oeiFfief-SE)
 * [2017.05.13 Roborace Minsk - Final](https://www.youtube.com/watch?v=p4TA3dqyDOE)
 
