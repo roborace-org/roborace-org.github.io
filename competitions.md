@@ -7,3 +7,4 @@
 
 ![banner](/img/brest2017.jpg)
 
+## [Правила соревнований](https://github.com/roborace-org/roborace-regulations)
