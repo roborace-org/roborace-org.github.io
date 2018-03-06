@@ -6,9 +6,11 @@
 
 Турнир включает соревнования, в которых могут принимать участие как простые узконаправленные конструкции, созданные начинающими, так и комплексные робототехнические устройства со сложной программной частью. Регламенты соревнований формируются таким образом, чтобы охватить как можно более широкий спектр характеристик и возможностей робототехнических конструкций.
 
+## [Правила соревнований](https://github.com/roborace-org/roborace-regulations)
 
+## [Календарь соревнований](/calendar)
 
-## Соревнования
+## Прошедшие Соревнования
 ### 2017
 * [2017.12.16 Roborace Brest - Final](https://www.youtube.com/watch?v=qxQjyefcZLk), [1st Semifinal](https://www.youtube.com/watch?v=_-QPGzcMx8I), [2nd Semifinal](https://www.youtube.com/watch?v=vL0uEYWCCm0), [Qualification (Lightning)](https://www.youtube.com/watch?v=qHxls-PQzGk)
 * [2017.10.27 Roborace Lvov - Final](https://www.youtube.com/watch?v=CQYVyRDg1t4)
@@ -18,5 +20,3 @@
 ### 2016
 * [2016.11.19 Roborace Lodz - Final](https://www.youtube.com/watch?v=AVTrLPimuZ8)
 * [2016.09.17 Roborace Minsk - Final](https://www.youtube.com/watch?v=FEcny0drUco)
-
-## [Правила соревнований](https://github.com/roborace-org/roborace-regulations)
