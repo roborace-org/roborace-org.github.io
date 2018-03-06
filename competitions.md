@@ -1,20 +1,10 @@
-# SMART ROBO FEST 16.12.2017 Brest
+# Соревнования Roborace
+## 2017
+* [2017.12.16 Roborace Brest - Final](https://www.youtube.com/watch?v=qxQjyefcZLk), [1st Semifinal](https://www.youtube.com/watch?v=_-QPGzcMx8I), [2nd Semifinal](https://www.youtube.com/watch?v=vL0uEYWCCm0), [Qualification (Lightning)](https://www.youtube.com/watch?v=qHxls-PQzGk)
+* [2017.10.27 Roborace Lvov - Final](https://www.youtube.com/watch?v=CQYVyRDg1t4)
+* [2017.05.27 Roborace in Odessa](https://www.youtube.com/watch?v=oeiFfief-SE)
+* [2017.05.13 Roborace Minsk - Final](https://www.youtube.com/watch?v=p4TA3dqyDOE)
 
-## Программа Roborace
-### 15.12 Тренировочные заезды
-### 16.12 Турнир роборейс
-* 09:00-11:00 Тренировочные заезды
-* 11:00 Открытие соревнований
-* 12:00-12:50 Квалификация
-* 13:00 Первый полуфинал
-* 13:20 Второй полуфинал
-* 14:00 Финал
-* 16:00-17:00 - Награждение
-
-## [Team registration](https://goo.gl/forms/3DLcXityXmdWNOXt1)
-
-## [Guest registration](https://goo.gl/forms/fEhACdDAtKoslvLu1)
-
-![banner](/img/brest2017.jpg)
-
-## [Правила соревнований](https://github.com/roborace-org/roborace-regulations)
+## 2016
+* [2016.11.19 Roborace Lodz - Final](https://www.youtube.com/watch?v=AVTrLPimuZ8)
+* [2016.09.17 Roborace Minsk - Final](https://www.youtube.com/watch?v=FEcny0drUco)
