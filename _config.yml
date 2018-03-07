@@ -7,3 +7,8 @@ jekyll_analytics:
   GoogleAnalytics:
     id: UA-44012392-3
 google_analytics: UA-44012392-3
+
+footer-links:
+  facebook: RoboRace-162719923762655
+  github: roborace-org
+  youtube: channel/UCcfYB_i43vfGvIPK36-UtNg
