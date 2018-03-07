@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 title: RoboRace
 description: Гонки автономных роботов
-google-analytics:
-  id: "UA-44012392-3"
+jekyll_analytics:
+  GoogleAnalytics:
+    id: UA-44012392-3
