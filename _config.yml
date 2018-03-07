@@ -6,3 +6,4 @@ plugins:
 jekyll_analytics:
   GoogleAnalytics:
     id: UA-44012392-3
+google_analytics: UA-44012392-3
