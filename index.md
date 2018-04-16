@@ -12,4 +12,3 @@
 
 ## [Прошедшие соревнования](/competitions)
 
-## [YouTube канал](https://www.youtube.com/channel/UCcfYB_i43vfGvIPK36-UtNg)
