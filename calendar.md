@@ -2,5 +2,5 @@
 [back](./)
 
 * [27 - октября Львов.](http://lp.edu.ua/robocup)
-* Ноябрь - Лодзь
+* [17-18 - ноября Лодзь.](http://skaner.p.lodz.pl/sumochallenge/)
 * Декабрь - Брест
