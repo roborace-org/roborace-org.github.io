@@ -3,4 +3,4 @@
 
 * [27 - октября Львов.](http://lp.edu.ua/robocup)
 * [17-18 - ноября Лодзь.](http://skaner.p.lodz.pl/sumochallenge/)
-* Декабрь - Брест
+* [15 - декабря Брест.](http://smartrobofest.by/)
