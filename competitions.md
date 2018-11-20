@@ -1,6 +1,7 @@
 # Соревнования Roborace
 [back](./)
 ## 2018
+* [2018.11.17 Roborace Lodz](https://www.youtube.com/watch?v=9rG4LpmjQ2Y)
 * [2018.04.14 Roborace Kharkiv](https://www.youtube.com/playlist?list=PLP-dZvj53bl99Z8OhVjGYWTqcEjwS9KhC)
 
 ## 2017
