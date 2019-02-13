@@ -5,7 +5,7 @@
 
 * 11-12 Апреля Брест, Беларусь
 * [23 Апреля Вильнюс, Литва](https://robotiada.lt/)
-* [27 Апреля г.Резекне, Латвия] (http://latvianroboticchampionship.lv/latvianroboticchampionship/)
+* [27 Апреля г.Резекне, Латвия](http://latvianroboticchampionship.lv/latvianroboticchampionship/)
 * Май Одесса, Украина
 
 
