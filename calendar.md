@@ -3,7 +3,7 @@
 
 ## Сезон 2019
 
-* 11-12 Апреля Брест, Беларусь
+* [11-12 Апреля Брест, Беларусь](http://smartrobofest.by/)
 * 16-18 Апреля Харьков, Украина
 * [27 Апреля г.Резекне, Латвия](http://latvianroboticchampionship.lv/latvianroboticchampionship/)
 * [23-25 Мая Одесса, Украина](https://www.robot.onaft.edu.ua/roborace.html)
