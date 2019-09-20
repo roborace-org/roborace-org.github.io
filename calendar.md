@@ -3,11 +3,13 @@
 
 ## Сезон 2019
 
-* 16-18 Апреля Харьков, Украина
-* [27 Апреля г.Резекне, Латвия](http://latvianroboticchampionship.lv/latvianroboticchampionship/)
-* [23-25 Мая Одесса, Украина](https://www.robot.onaft.edu.ua/roborace.html)
-* [2 Июня Минск, Беларусь](http://roboturnir.by/)
-* [26 Октября Львов, Украина](http://lp.edu.ua/event/2019/konkurs-vseukrayinski-zmagannya-z-peregoniv-avtonomnyh-robotiv-za-kubok-lvivskoyi)
+* 16-18 апреля Харьков, Украина
+* [27 апреля г.Резекне, Латвия](http://latvianroboticchampionship.lv/latvianroboticchampionship/)
+* [23-25 мая Одесса, Украина](https://www.robot.onaft.edu.ua/roborace.html)
+* [2 июня Минск, Беларусь](http://roboturnir.by/)
+* [26 октября Львов, Украина](http://lp.edu.ua/event/2019/konkurs-vseukrayinski-zmagannya-z-peregoniv-avtonomnyh-robotiv-za-kubok-lvivskoyi)
+* [7 - декабря Лодзь, Польша](http://skaner.p.lodz.pl/sumochallenge/)
+
 
 
 ## Сезон 2018:
