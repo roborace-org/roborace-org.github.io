@@ -7,7 +7,7 @@
 * [27 Апреля г.Резекне, Латвия](http://latvianroboticchampionship.lv/latvianroboticchampionship/)
 * [23-25 Мая Одесса, Украина](https://www.robot.onaft.edu.ua/roborace.html)
 * [2 Июня Минск, Беларусь](http://roboturnir.by/)
-* 4-6 (5) Октября Львов, Украина
+* [26 Октября Львов, Украина](http://lp.edu.ua/event/2019/konkurs-vseukrayinski-zmagannya-z-peregoniv-avtonomnyh-robotiv-za-kubok-lvivskoyi)
 
 
 ## Сезон 2018:
