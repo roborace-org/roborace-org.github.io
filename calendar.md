@@ -8,7 +8,9 @@
 * [23-25 мая Одесса, Украина](https://www.robot.onaft.edu.ua/roborace.html)
 * [2 июня Минск, Беларусь](http://roboturnir.by/)
 * [26 октября Львов, Украина](http://lp.edu.ua/event/2019/konkurs-vseukrayinski-zmagannya-z-peregoniv-avtonomnyh-robotiv-za-kubok-lvivskoyi)
-* [7 - декабря Лодзь, Польша](http://skaner.p.lodz.pl/sumochallenge/)
+* [23 ноября Пинск, Беларусь](http://roboturnir.by/registratsiya-kor/)
+* [6 декабря Минск, Беларусь](http://roboturnir.by/)
+* [7 декабря Лодзь, Польша](http://skaner.p.lodz.pl/sumochallenge/)
 
 
 
