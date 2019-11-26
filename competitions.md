@@ -1,5 +1,9 @@
 # Соревнования Roborace
 [back](./)
+
+## 2019
+* [2019.11.23 Roborace Pinsk](https://www.youtube.com/watch?v=9G0IUMKUTZA)
+
 ## 2018
 * [2018.12.15 Roborace Brest](https://www.youtube.com/watch?v=RdqlcBFY0_o)
 * [2018.11.17 Roborace Lodz](https://www.youtube.com/watch?v=9rG4LpmjQ2Y)
