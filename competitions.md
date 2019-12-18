@@ -2,6 +2,7 @@
 [back](./)
 
 ## 2019
+* [2019.12.14 Roborace Gomel](https://www.youtube.com/watch?v=La3aGpAmL6k)
 * [2019.12.07 Roborace Lodz](https://www.youtube.com/watch?v=MNXc0Rt2fFg)
 * [2019.11.23 Roborace Pinsk](https://www.youtube.com/watch?v=9G0IUMKUTZA)
 
