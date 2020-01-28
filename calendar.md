@@ -7,7 +7,7 @@
 * [15 февраля Борисов, Беларусь](http://roboturnir.by/) КОР 4
 * [23 марта Лодзь, Польша](https://skaner.p.lodz.pl/sumochallenge/)
 * [4 апреля Витебск, Беларусь](http://roboturnir.by/) КОР 5
-* [10-17 апреля Брест, Беларусь](http://roboturnir.by/) КОР 6
+* [25 апреля Брест, Беларусь](http://roboturnir.by/) КОР 6
 * [23-31 мая Минск, Беларусь](http://roboturnir.by/) КОР 7
 
 
