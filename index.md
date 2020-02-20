@@ -14,5 +14,5 @@
 
 ## [Роботы](/robots)
 
-## [Система подсчета кругов](https://github.com/roborace-org/roborace-laps-counter-java-server)
+## [Система подсчета кругов](http://laps.roborace.org/) [src](https://github.com/roborace-org/roborace-laps-counter-java-server)
 
