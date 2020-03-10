@@ -1,8 +1,8 @@
-# Roborace: Календарь чемпионата
+# Roborace: Сhampionship Сalendar
 [back](./)
 
 
-## Сезон 2020
+## Season 2020
 
 * [15 февраля Борисов, Беларусь](http://adm.moiro.by/reg_kor/) КОР 4
 * [23 марта Лодзь, Польша](https://skaner.p.lodz.pl/sumochallenge/)
@@ -12,7 +12,7 @@
 * [23-31 мая Минск, Беларусь](http://roboturnir.by/) КОР 7
 
 
-## Сезон 2019
+## Season 2019
 
 * 16-18 апреля Харьков, Украина
 * [27 апреля г.Резекне, Латвия](http://latvianroboticchampionship.lv/latvianroboticchampionship/)
@@ -26,7 +26,7 @@
 
 
 
-## Сезон 2018:
+## Season 2018:
 
 * [27 - октября Львов, Украина](http://lp.edu.ua/robocup)
 * [17-18 - ноября Лодзь, Польша](http://skaner.p.lodz.pl/sumochallenge/)
