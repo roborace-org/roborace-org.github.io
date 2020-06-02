@@ -5,11 +5,7 @@
 ## Season 2020
 
 * [15 февраля Борисов, Беларусь](http://adm.moiro.by/reg_kor/) КОР 4
-* [23 марта Лодзь, Польша](https://skaner.p.lodz.pl/sumochallenge/)
-* [4 апреля Витебск, Беларусь](http://roboturnir.by/) КОР 5
-* [25 апреля Брест, Беларусь](http://roboturnir.by/) КОР 6
-* [14-17 мая Одесса, Украина](https://docs.google.com/forms/d/e/1FAIpQLSchyW9zga3UNsQM0oq3Ksjr-xiThGujAXeBQ8OFLl7thtRdJg/viewform?vc=0&c=0&w=1)
-* [23-31 мая Минск, Беларусь](http://roboturnir.by/) КОР 7
+
 
 
 ## Season 2019
