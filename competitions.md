@@ -2,6 +2,13 @@
 [back](./)
 
 ## 2020
+* [2020.10.31 Roborace Brest Final](https://www.youtube.com/watch?v=iTbB_jcHXXg),
+[Live Stream](https://www.youtube.com/watch?v=ZgFv9elh2d0),
+[stream final](https://www.youtube.com/watch?v=DAevEQgBrkc),
+[SRS vs UVR](https://www.youtube.com/watch?v=ERztN5SiTFA)
+
+
+
 * [2020.02.15 Roborace Borisov](https://www.youtube.com/watch?v=u-kj72RgmFg),
 [Lego Sen](https://www.youtube.com/watch?v=8txHea-yOIo),
 [Lego Jun](https://www.youtube.com/watch?v=sSK9D4gy-xo),
