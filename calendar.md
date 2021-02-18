@@ -3,7 +3,8 @@
 
 ## Season 2021
 
-* [Конкурс по робототехнике «Дорога в будущее»](https://moiro.by/%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%B4%D0%B5%D1%82%D1%8C%D0%BC%D0%B8-%D0%B8-%D1%83%D1%87%D0%B0%D1%89%D0%B8%D0%BC%D0%B8%D1%81%D1%8F/%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D1%8B-%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D0%B8-%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8/%D0%BE%D0%B1%D0%BB-%D0%BA%D0%BE%D0%BD%D0%BA-%D1%84%D0%B5%D1%81%D1%82-%D0%BA%D0%BE%D0%BD%D1%84/%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0-%D0%B2-%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5)
+* [13 Февраля Боровляны, Беларусь](https://moiro.by/%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%B4%D0%B5%D1%82%D1%8C%D0%BC%D0%B8-%D0%B8-%D1%83%D1%87%D0%B0%D1%89%D0%B8%D0%BC%D0%B8%D1%81%D1%8F/%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D1%8B-%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D0%B8-%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8/%D0%BE%D0%B1%D0%BB-%D0%BA%D0%BE%D0%BD%D0%BA-%D1%84%D0%B5%D1%81%D1%82-%D0%BA%D0%BE%D0%BD%D1%84/%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0-%D0%B2-%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5) Конкурс по робототехнике «Дорога в будущее», КОР 20/21 2
+* [6 марта Гомель, Беларусь](https://robofinist.ru/event/473) КОР 20/21 3
 
 
 ## Season 2020
@@ -11,8 +12,7 @@
 * [15 февраля Борисов, Беларусь](http://adm.moiro.by/reg_kor/) КОР 19/20 4
 * [КОР 2020/2021 Общая таблица](https://docs.google.com/spreadsheets/d/1aRPZXVsGIPZH5Jd0szDepxk1ALcuXL7vmPe8pLU7lyw/edit?usp=sharing)
 * [31 октября Брест, Беларусь](https://smartrobofest.by/) КОР 20/21 1
-* [4 декабря Минск, Беларусь](http://roboturnir.by/) КОР 20/21 2 - отменен
-* [9 января Гомель, Беларусь](http://roboturnir.by/) КОР 20/21 3
+
 
 
 ## Season 2019
