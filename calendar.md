@@ -10,7 +10,7 @@
 ## Season 2020
 
 * [15 февраля Борисов, Беларусь](http://adm.moiro.by/reg_kor/) КОР 19/20 4
-* [КОР 2020/2021 Общая таблица](https://docs.google.com/spreadsheets/d/1aRPZXVsGIPZH5Jd0szDepxk1ALcuXL7vmPe8pLU7lyw/edit?usp=sharing)
+* [КОР 2020/2021 Кубок](https://docs.google.com/spreadsheets/d/1aRPZXVsGIPZH5Jd0szDepxk1ALcuXL7vmPe8pLU7lyw/edit?usp=sharing)
 * [31 октября Брест, Беларусь](https://smartrobofest.by/) КОР 20/21 1
 
 
