@@ -1,6 +1,10 @@
 # Соревнования Roborace
 [back](./)
 
+## 2021
+* [2021-02-13 Roborace Final Minsk](https://www.youtube.com/watch?v=fB58Myiy344)
+* [2021-03-06 Final Pro mini](https://www.youtube.com/watch?v=Q9o-uvLZ8Nc), [Final OK](https://www.youtube.com/watch?v=UHKfOgnF7AA)
+
 ## 2020
 * [2020.10.31 Roborace Brest Final](https://www.youtube.com/watch?v=iTbB_jcHXXg),
 [Live Stream](https://www.youtube.com/watch?v=ZgFv9elh2d0),
