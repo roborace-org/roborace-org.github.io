@@ -2,8 +2,9 @@
 [back](./)
 
 ## 2021
-* [2021-02-13 Roborace Final Minsk](https://www.youtube.com/watch?v=fB58Myiy344)
-* [2021-03-06 Final Pro mini](https://www.youtube.com/watch?v=Q9o-uvLZ8Nc), [Final OK](https://www.youtube.com/watch?v=UHKfOgnF7AA)
+* [2021-02-13 Roborace Final Боровляны](https://www.youtube.com/watch?v=fB58Myiy344)
+* [2021-03-06 Final Roborace Pro mini Гомель](https://www.youtube.com/watch?v=Q9o-uvLZ8Nc), [Final OK](https://www.youtube.com/watch?v=UHKfOgnF7AA)
+* [2021-03-27 Final Roborace Бобруйск](https://www.youtube.com/watch?v=4y6K_SR6K4k)
 
 ## 2020
 * [2020.10.31 Roborace Brest Final](https://www.youtube.com/watch?v=iTbB_jcHXXg),
