@@ -4,7 +4,7 @@
 
 ## Season 2021/2022
 
-* КОР 2021/2022 Кубок
+* [КОР 2021/2022 Кубок](https://docs.google.com/spreadsheets/d/12ykoNomK4MrYc7CxbJbvWzr_XHvaMdJ42-qf5h5Plh0/edit#gid=0)
 * [12 декабря Брест, Беларусь](https://robofinist.ru/event/597) КОР 21/22 1
 * 22 января Гомель, Беларусь КОР 21/22 2
 * февраль Могилев, Беларусь КОР 21/22 3
