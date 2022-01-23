@@ -1,6 +1,9 @@
 # Roborace competition
 [back](./)
 
+## 2022
+* 2022-12-12 Gomel [Final Pro](https://www.youtube.com/watch?v=2XEz4GIQu2o), [Pro Mini](https://www.youtube.com/watch?v=fxq9S0sBxMc), [OK](https://www.youtube.com/watch?v=uHthMpxuX1I)
+
 ## 2021
 * 2021-02-13 Borovlyany (Minsk) [Final Pro](https://www.youtube.com/watch?v=fB58Myiy344)
 * 2021-03-06 Gomel [Final Pro mini](https://www.youtube.com/watch?v=Q9o-uvLZ8Nc), [Final OK](https://www.youtube.com/watch?v=UHKfOgnF7AA)
