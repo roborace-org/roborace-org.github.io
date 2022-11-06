@@ -1,6 +1,14 @@
 # Roborace: Сhampionship Сalendar
 [back](./)
 
+## Season 2021/2022
+
+* [КОР 2022/2023 Кубок](https://docs.google.com/spreadsheets/d/1VwqeRJwL7wZpTdTD4ERbIjesto-lqg6bAzWEYMkwmy4/edit#gid=0)
+* [20 ноября Брест, Беларусь](https://robofinist.ru/event/787) КОР 22/23 1
+* январь Бобруйск, Беларусь КОР 22/23 3
+* февраль Гродно, Беларусь КОР 22/23 4
+* апрель Пинск, Беларусь КОР 22/23 6
+* май-июнь Минск, Беларусь КОР 22/23 8
 
 ## Season 2021/2022
 
