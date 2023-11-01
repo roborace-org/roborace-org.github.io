@@ -8,6 +8,8 @@
 
 ## [Regulations](https://github.com/roborace-org/roborace-regulations)
 
+## [Чертеж трассы](track/Roborace_track_v1.0.cdr)
+
 ## [Calendar](/calendar)
 
 ## [Past Competitions](/competitions)
