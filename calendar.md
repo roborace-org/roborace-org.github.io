@@ -1,6 +1,23 @@
 # Roborace: Сhampionship Сalendar
 [back](./)
 
+## Season 2023/2024
+* [КОР 2023/2024 Кубок](https://docs.google.com/spreadsheets/d/1xsjEsuYqUIhpLuuO5KrkDZuOxKhwTMGIvtyyL2Muh9Y)
+* [2 сентября Минск, Беларусь](https://robofinist.ru/event/958) Роботурнир на Фестивале науки
+* [26 ноября Брест, Беларусь](https://robofinist.ru/event/990) V Брестский турнир по робототехнике "SmartRoboFest", КОР Брест
+* [27 декабря Минск, Беларусь](https://robofinist.ru/event/1006) МОЛР 1
+* [13 января Бобруйск, Беларусь](https://robofinist.ru/event/1007) КОР Могилев
+* [26-28 января Минск, Беларусь](https://robofinist.ru/event/1015) МОЛР 2
+* [16-18 февраля Минск, Беларусь](https://robofinist.ru/event/1031) МОЛР 3
+* [24 февраля Гомель, Беларусь](https://robofinist.ru/event/1025) КОР Гомель
+* [15 марта Минск, Беларусь](https://robofinist.ru/event/1032) МОЛР 4
+* [30 марта Витебск, Беларусь](https://robofinist.ru/event/1026) КОР Витебск
+* [12 апреля Минск, Беларусь](https://robofinist.ru/event/1033) МОЛР 5--
+* 4 мая Гродно, Беларусь КОР Гродно
+* апрель-май Минск Тибо КОР Минск
+* июнь Роботурнир
+
+
 ## Season 2022/2023
 
 * [КОР 2022/2023 Кубок](https://docs.google.com/spreadsheets/d/1VwqeRJwL7wZpTdTD4ERbIjesto-lqg6bAzWEYMkwmy4/edit#gid=0)
@@ -13,6 +30,7 @@
 * [18—21 апреля Минск, Беларусь](https://robofinist.ru/event/919) Роботурнир ТИБО-2023, КОР 22/23 7
 * [29 мая Минск, Беларусь](https://robofinist.ru/event/930) КОР 22/23 МОЛР-3
 * [10-12 июня Минск, Беларусь](https://robofinist.ru/event/931) X Минский открытый роботурнир, КОР 22/23 8
+* [29 октября Санкт-Петербург, Россия](https://robofinist.ru/event/841) РобоФинист 2023
 
 
 ## Season 2021/2022
