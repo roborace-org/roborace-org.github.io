@@ -14,7 +14,6 @@
 * [30 марта Витебск, Беларусь](https://robofinist.ru/event/1026) КОР Витебск
 * [12 апреля Минск, Беларусь](https://robofinist.ru/event/1033) МОЛР 5
 * [1 мая Гродно, Беларусь](https://robofinist.ru/event/1028) КОР Гродно
-* [24 мая Минск, Беларусь](https://robofinist.ru/event/1143) МОЛР 6
 * июнь Роботурнир
 
 
