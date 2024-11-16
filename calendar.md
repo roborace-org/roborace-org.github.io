@@ -1,6 +1,11 @@
 # Roborace: Сhampionship Сalendar
 [back](./)
 
+## Season 2024/2025
+* [КОР 2024/2025 Кубок](https://docs.google.com/spreadsheets/d/1ZNKINEWfQw93VgiyfwalxnH9ENKwRGDNU-igbVcnCVc)
+* [2 ноября Брест, Беларусь](https://robofinist.ru/event/1210) VI Брестский турнир по робототехнике "SmartRoboFest", КОР Брест
+
+
 ## Season 2023/2024
 * [КОР 2023/2024 Кубок](https://docs.google.com/spreadsheets/d/1xsjEsuYqUIhpLuuO5KrkDZuOxKhwTMGIvtyyL2Muh9Y)
 * [2 сентября Минск, Беларусь](https://robofinist.ru/event/958) Роботурнир на Фестивале науки
