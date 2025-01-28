@@ -11,7 +11,6 @@
 
 # Roborace small bridge
 
-![Roborace small bridge](/track/roborace-small-bridge-6mm.png)
-![Roborace small bridge](/track/roborace-small-bridge-6mm-2.png)
-[Roborace small bridge](track/roborace-small-bridge-6mm.dxf)
+![Roborace small bridge](/track/roborace-small-bridge-v.1.1-6.1mm.png)
+[Roborace small bridge](track/roborace-small-bridge-v.1.1-6.1mm.dxf)
 
